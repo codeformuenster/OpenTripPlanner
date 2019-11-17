@@ -1,4 +1,4 @@
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/codeformuenster/opentripplanner)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/codeformuenster/opentripplanner)](https://hub.docker.com/repository/docker/codeformuenster/opentripplanner)
 
 # OpenTripPlanner
 
